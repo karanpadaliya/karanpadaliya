@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanpadaliya&label=Profile%20views&color=0e75b6&style=flat" alt="karanpadaliya" /> </p>
 
-- 🔭 I’m currently working on **Payment App**
-
-- 🌱 I’m currently learning **PHP || API**
-
 - 👨‍💻 All of my projects are available at [https://github.com/karanpadaliya](https://github.com/karanpadaliya)
 
 - 📫 How to reach me **kdpadaliya216@gmail.com**
